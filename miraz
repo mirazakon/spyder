@@ -1,0 +1,10 @@
+Python Spyder condsole doesnot give any output. After loading data if I 
+run the code: UserRatingData.describe()
+Ipython Console shows follwing line instead the output
+runfile('C:/Users/miraz/untitled0.py', wdir='C:/Users/miraz')
+
+How can I get Output in Ipython Console?
+
+Thanks.
+
+Miraz
